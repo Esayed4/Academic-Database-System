@@ -4,8 +4,8 @@ This project models a university's academic environment using database design pr
 
 ## 📌 Project Structure
 
-- **ERD_Academic-Database-System.drawio.png**: ER diagram that models the university's academic structure.
-- **ER_To_relational_mapping.drawio.png**: Conversion of the ER diagram to a relational schema.
+- **ERD_Academic-Database-System.drawio**: ER diagram that models the university's academic structure.
+- **ER_To_relational_mapping.drawio**: Conversion of the ER diagram to a relational schema.
 - **DDL.sql**: SQL script to create the database schema (tables and constraints).
 - **insertvalues.sql**: SQL script to populate the database with sample data.
 - **DML.sql**: SQL script containing queries and data manipulation operations.
