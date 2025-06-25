@@ -53,7 +53,7 @@ Key tables derived from ER model:
 
 ## 🛠️ Technologies
 
-- SQL (Standard)
+- Microsoft SQL Server Managment Studio
 - ER Modeling (via draw.io)
 - Relational Mapping
 
