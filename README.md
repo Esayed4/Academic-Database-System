@@ -36,7 +36,9 @@ The university database system includes:
   - Students have one `Major` department
   - Professors `Run` departments as chairmen
   - Students have another student as an `Advisor`
+- <img width="972" height="562" alt="Image" src="https://github.com/user-attachments/assets/402788f1-4f2e-455f-96bc-41baeadd62be" />
 
+د
 ## 🗃️ Relational Model Overview
 
 Key tables derived from ER model:
@@ -47,8 +49,7 @@ Key tables derived from ER model:
 - `Department_Staff(D_number, P_SSN, working_time)`
 - `Student_Project(P_number, P_SSN, S_SSN)`
 
-- <img width="972" height="562" alt="Image" src="https://github.com/user-attachments/assets/402788f1-4f2e-455f-96bc-41baeadd62be" />
-
+<img width="762" height="633" alt="Image" src="https://github.com/user-attachments/assets/db669af7-07d7-4010-ba13-a36d7bb162f1" />
 ## ✅ How to Use
 
 1. Run `DDL.sql` to create the schema.
