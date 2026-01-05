@@ -50,6 +50,8 @@ Key tables derived from ER model:
 - `Student_Project(P_number, P_SSN, S_SSN)`
 
 <img width="762" height="633" alt="Image" src="https://github.com/user-attachments/assets/db669af7-07d7-4010-ba13-a36d7bb162f1" />
+
+
 ## ✅ How to Use
 
 1. Run `DDL.sql` to create the schema.
