@@ -19,6 +19,8 @@ The university database system includes:
 - Departments managed by a chairman professor, with multiple associated faculty.
 - Relationships between professors, students, departments, and projects, including time allocations, supervision, and project roles.
 
+- <img width="728" height="667" alt="Image" src="https://github.com/user-attachments/assets/684461fe-596a-4072-bdfc-d00204c60c7e" />
+
 ## 🧱 ER Model Highlights
 
 - **Entities**:
@@ -44,6 +46,8 @@ Key tables derived from ER model:
 - `Department(D_number, name, main_office, P_SSN)`
 - `Department_Staff(D_number, P_SSN, working_time)`
 - `Student_Project(P_number, P_SSN, S_SSN)`
+
+- <img width="972" height="562" alt="Image" src="https://github.com/user-attachments/assets/402788f1-4f2e-455f-96bc-41baeadd62be" />
 
 ## ✅ How to Use
 
